@@ -1,0 +1,6 @@
+{
+  "name": "Escala Cero - Incubadora Arquitectónica",
+  "description": "Incubadora de talento arquitectónico y diseño digital de exportación en Aguascalientes con triple impacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
